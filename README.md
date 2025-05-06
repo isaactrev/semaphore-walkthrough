@@ -1,9 +1,3 @@
-
-# Semaphore Walkthrough
-## 🎥 Project Demo
-
-[![Watch the video](https://img.youtube.com/vi/x9byd2CVZ-U/0.jpg)](https://youtu.be/x9byd2CVZ-U)
-
 # A Beginner’s Walkthrough of Semaphore
 
 This project is a simplified walkthrough of how [Semaphore](https://semaphore.pse.dev/) works — a zero-knowledge protocol that enables anonymous signaling, voting, and feedback within a verified group. The goal is to demystify the core steps by walking through a functional example built on top of Semaphore’s official boilerplate.
